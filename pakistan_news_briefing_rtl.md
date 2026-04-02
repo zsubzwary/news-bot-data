@@ -1,11 +1,18 @@
 
+---
+layout: default
+title: پاکستان خبری مختصر (Pakistan News Briefing)
+rtl: true
+lang: ur
+---
+
 <style>
-  body, .markdown-body {
+  body {
     direction: rtl;
     text-align: right;
   }
   ul, ol {
-    padding-right: 2em; /* Fixes bullet point indentation for RTL */
+    padding-right: 2em;
     padding-left: 0;
   }
 </style>

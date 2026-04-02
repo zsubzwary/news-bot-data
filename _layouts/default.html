@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: "en-US" }}" {% if page.rtl %}dir="rtl"{% endif %}>
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,21 +8,38 @@
     <!-- This is where your Google Analytics script will be injected -->
     {% include deakh.html %}
 
+    <!-- Google Fonts for Urdu Nastaliq -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Custom font from frontmatter if provided -->
+    {% if page.font_url %}
+    <link rel="stylesheet" href="{{ page.font_url }}">
+    {% endif %}
+
     <!-- Link to your CSS if you have any -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   </head>
   <body>
     <header>
-      <h1>{{ site.title }}</h1>
+      <div class="header-content">
+        <h1>{{ page.title | default: site.title }}</h1>
+      </div>
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🔄</button>
     </header>
 
     <main>
-      <!-- You have no idea how much time it took to configure this.... 🤦‍♂️ -->
-      {{ content }}
+      <div class="briefing-container">
+        {{ content }}
+      </div>
     </main>
 
     <footer>
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.author }}</p>
     </footer>
+
+    <!-- Theme Toggle JavaScript -->
+    <script src="{{ "/assets/js/theme.js" | relative_url }}"></script>
   </body>
 </html>
