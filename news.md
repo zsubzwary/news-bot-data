@@ -1,62 +1,54 @@
-Here’s your Pakistan news briefing for 02-Apr-2026 11:01HRS:
+Here’s your Pakistan news briefing for 02-Apr-2026 13:07HRS:
 Time to read: 4 mins
 
 ### Economy
-- The PSX shed over 5,300 points due to geopolitical tensions following Trump’s statements on Iran. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/psx-plunges-over-5400-points-as-trumps-stone-age-threat-to-iran-rattles-markets/)*
-- The SBP raised Rs801.7 billion through PIB and T-bill auctions, indicating continued reliance on domestic borrowing. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/sbp-raises-rs801-7-billion-through-pib-t-bill-auctions/)*
-- NEPRA fined CPPA and NTDC Rs60 million for costly electricity generation due to planning lapses and inefficiencies. *[ARY News](https://arynews.tv/nepra-fines-cppa-ntdc-rs60m-over-costly-electricity-generation/)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/cppa-national-grid-company-fined-rs60-million-for-planning-lapses-faulty-data/)*
-- Unilever is merging its global foods business with McCormick, potentially impacting its Pakistan unit. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/unilever-to-merge-its-global-foods-business-with-mccormick-signals-ownership-shift-in-pakistan-unit/)*
-- The ECC ordered ministries to surrender Rs100 billion from PSDP allocations for the PM’s austerity fund. *[Business Recorder](https://www.brecorder.com/news/40414402/ecc-orders-ministries-to-surrender-rs100bn-psdp-cut-for-pms-fund)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/ecc-orders-rs100-billion-psdp-cuts-for-pm-austerity-fund/)*
-- Oil prices jumped over 4% after Trump signaled continued attacks on Iran. *[Business Recorder](https://www.brecorder.com/news/40414416/oil-jumps-over-4-after-trump-says-us-to-keep-up-attacks-on-iran)*
-- Pakistan is seeking to settle $220 million in dues owed by SSGC to a Chinese energy firm. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/china-urges-pakistan-to-settle-220-million-dues-payable-by-ssgc-to-energy-firm/)*
-
-### Politics
-- Democrats are demanding a ceasefire as Trump defends the costly war on Iran. *[Dawn](https://www.dawn.com/news/1987773/democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran)*
-- President Trump signed an executive order to crack down on mail-in voting ahead of mid-term elections. *[Dawn](https://www.dawn.com/news/1987670/trump-signs-executive-order-for-crackdown-on-mail-in-voting-ahead-of-mid-term-election)*
-- The US Supreme Court justices expressed skepticism towards Trump’s order to restrict birthright citizenship. *[Dawn](https://www.dawn.com/news/1987575/us-supreme-court-justices-skeptical-of-trumps-order-to-restrict-birthright-citizenship)*
-- Pakistan and Afghanistan have resumed talks in China, mediated by China, to address ongoing clashes. *[Business Recorder](https://www.brecorder.com/news/40414396/pakistan-afghanistan-open-fresh-talks-in-china)*
-
-### International
-- Trump signaled the US-Israeli military campaign against Iran could conclude within weeks but threatened wider attacks. *[Dawn](https://www.dawn.com/news/1987698/trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran)*
-- The UK will host a 35-state moot to discuss reopening the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1987674/uk-to-host-35-state-moot-on-reopening-of-hormuz-strait)*
-- Indonesia has called for a UN investigation into the deaths of its peacekeepers in Lebanon following Israeli strikes. *[Dawn](https://www.dawn.com/news/1987672/indonesia-calls-for-probe-into-un-peacekeepers-killing)*
-- Myanmar’s parliament will vote to elect a president on Friday, with the former military chief in the running. *[Business Recorder](https://www.brecorder.com/news/40414426/myanmar-parliament-to-hold-vote-to-elect-president-on-friday-house-speaker-says)*
-- Babies evacuated from Gaza two years ago have been reunited with their parents. *[Dawn](https://www.dawn.com/news/1987654/babies-evacuated-from-gaza-two-years-ago-returned-to-their-overjoyed-parents)*
-
-### National
-- Pakistan may become the fourth most populated nation in five years. *[Dawn](https://www.dawn.com/news/1987671/pakistan-may-become-fourth-most-populated-nation-in-five-years)*
-- The Sindh CM ordered the demolition of the fire-hit Gul Plaza structure. *[Dawn](https://www.dawn.com/news/1987623/sindh-cm-murad-orders-demolition-of-fire-hit-gul-plaza-structure)*
-- The Sindh High Court summoned the FIA chief regarding notices for banking records of Karachi Cotton Exchange directors. *[Dawn](https://www.dawn.com/news/1987625/sindh-high-court-summons-fia-chief-in-pleas-against-notices-for-banking-records-of-cotton-exchange-directors-tenants)*
-- The information ministry dismissed claims of barbed wire removal along the Pak-Afghan border as fabricated. *[Dawn](https://www.dawn.com/news/1987562/devoid-of-facts-info-ministry-rubbishes-claims-of-barbed-wire-being-removed-along-pak-afghan-border)*
-- Four cops were among nine injured in an IED blast in Lakki Marwat, KP. *[Dawn](https://www.dawn.com/news/1987545/4-cops-among-9-injured-in-ied-blast-in-kps-lakki-marwat)*
-
-### Weather
-- Rain began in Karachi and surrounding areas, prompting local authorities to declare an emergency. *[Dawn](https://www.dawn.com/news/1987780/rain-begins-in-karachi-surrounding-areas-as-local-authorities-declare-emergency)* & *[ARY News](https://arynews.tv/karachi-receives-light-rain-braces-for-more-2-april-2026/)*
-- Heavy rains and flash floods are causing havoc across Balochistan, affecting over 30 districts. *[Dawn](https://www.dawn.com/news/1987677/heavy-rains-flash-floods-wreak-havoc-across-balochistan)*
+- Pakistan’s current account posted a $2.1 billion surplus in FY25, a significant improvement from the $2.07 billion deficit in FY24. *[Business Recorder](https://www.brecorder.com/news/40373319/pakistans-current-account-posts-21bn-surplus-in-fy25)*
+- Five private companies have submitted proposals for a ferry service from Gwadar to the Gulf region, aiming to boost trade and passenger travel. *[Dawn](https://www.dawn.com/news/1924990/5-private-companies-submit-proposals-on-ferry-service-from-gwadar-to-gulf-region-maritime-ministry)*
+- The FBR has notified the New Energy Vehicle (NEV) adoption levy on both locally manufactured and imported vehicles. *[Business Recorder](https://www.brecorder.com/news/40373315/fbr-notifies-nev-adoption-levy-on-local-imported-vehicles)*
+- Pakistan’s Real Effective Exchange Rate (REER) dropped to its lowest level since September 2023, reaching 96.6 in June 2025. *[Pro Pakistani](https://propakistani.pk/2025/07/18/pakistans-real-effective-exchange-rate-drops-to-lowest-level-since-september-2023/)*
+- Palm oil futures rose, posting a third consecutive weekly gain and reaching the highest close in 14 weeks. *[Business Recorder](https://www.brecorder.com/news/40373323/palm-oil-makes-more-than-3-weekly-gain-for-highest-close-in-14-weeks)*
+- Soybean futures rose, tracking for a 3% weekly gain due to improved U.S. export hopes and biofuel policy expectations. *[Business Recorder](https://www.brecorder.com/news/40373326/soybean-heads-for-3-weekly-gain-on-us-demand-hopes)*
 
 ### Science & Technology
-- NASA launched four astronauts on the Artemis II mission, the first crewed lunar mission in half a century. *[Dawn](https://www.dawn.com/news/1987778/nasa-launches-4-astronauts-on-worlds-first-crewed-lunar-mission-in-half-a-century)*
+- Netflix used generative AI for visual effects in its Argentine TV series, “El Eternauta,” marking a first for on-screen AI-generated content. *[Business Recorder](https://www.brecorder.com/news/40373314/netflix-says-it-used-genai-in-argentine-tv-series)*
 
-### Health
-- A new COVID variant, ‘Cicada’ (BA.3.2), is spreading and may be able to evade immunity. *[ARY News](https://arynews.tv/covid-variant-cicada-symptoms-spread-causes-and-more/)*
+### Weather
+- Medium-level flooding has been reported on the Indus River at Punjab’s Kalabagh, with low-level floods at four other locations due to monsoon rains and glacial melting. *[Dawn](https://www.dawn.com/news/1924989/medium-level-flood-on-indus-river-at-punjabs-kalabagh-due-to-monsoon-rains)*
+- Thundershowers are expected to batter Karachi from tonight through Sunday, as monsoon currents penetrate Sindh. *[Business Recorder](https://www.brecorder.com/news/40373320/thundershower-likely-to-batter-karachi-from-tonight)*
+- Lightning strikes in India’s Bihar killed at least 33 people and injured dozens during recent monsoon storms. *[Dawn](https://www.dawn.com/news/1924970/lightning-strikes-kill-33-people-in-indias-bihar)*
+
+### Politics
+- Iran stated that European nations have no grounds to reactivate UN sanctions, amid ongoing nuclear talks. *[Dawn](https://www.dawn.com/news/1924997/iran-says-europeans-have-no-grounds-to-trigger-sanctions-snapback)*
+- Volodymyr Zelenskyy hailed new EU sanctions on Russia as “essential and timely” in response to intensified Russian strikes. *[Business Recorder](https://www.brecorder.com/news/40373312/volodymyr-zelenskyy-hails-new-eu-sanctions-on-russia-as-essential-and-timely)*
+
+### National
+- Security forces foiled an infiltration attempt by terrorists along the Pak-Afghan border, arresting five alleged suicide bombers. *[Dawn](https://www.dawn.com/news/1925009/security-forces-foil-infiltration-bid-by-terrorists-on-pak-afghan-border-state-media)*
+- COAS Munir and Libyan Armed Forces’ chief agreed on defence industrial collaboration between their countries. *[Dawn](https://www.dawn.com/news/1925004/coas-munir-libyan-armed-forces-chief-agree-on-defence-industrial-collaboration-ispr)*
+- An ATC in Quetta extended the physical remand of Baloch Yakjehti Committee (BYC) chief Dr. Mahrang Baloch and other organizers for another 15 days. *[Dawn](https://www.dawn.com/news/1925000/quetta-atc-sends-mahrang-baloch-others-on-15-day-physical-remand-again)*
+- One Balochistan Constabulary officer was martyred and three injured in a gun attack in Mastung. *[Dawn](https://www.dawn.com/news/1925001/1-martyred-3-injured-as-gunmen-attack-balochistan-constabulary-convoy-in-mastung)*
+- A milk supplier was killed in Karachi’s Saudabad when a dumper truck ran over his motorcycle. *[Dawn](https://www.dawn.com/news/1924967/dumper-truck-kills-motorcyclist-in-karachis-saudabad-police)*
+- The government needs to pay over Rs. 29 billion to USC staff to close utility stores permanently. *[Pro Pakistani](https://propakistani.pk/2025/07/18/govt-needs-to-pay-over-rs-29-billion-to-staff-to-close-utility-stores-permanently/)*
+- A bill was passed to end the death penalty for major crimes against women, replacing it with life imprisonment. *[Pro Pakistani](https://propakistani.pk/2025/07/18/bill-passed-to-end-death-penalty-for-major-crimes-against-women/)*
+- PM Shehbaz Sharif emphasized a comprehensive plan to make electric vehicles accessible to all citizens. *[Business Recorder](https://www.brecorder.com/news/40373317/pm-shehbaz-emphasises-comprehensive-plan-to-make-evs-accessible-for-all)*
+
+### International
+- Three Sri Lankan elephants were found dead, a setback for conservation efforts. *[Dawn](https://www.dawn.com/news/1925007/three-sri-lankan-elephants-killed-in-blow-to-conservation-efforts)*
+- Germany deported 81 Afghan men convicted of crimes back to Afghanistan. *[Dawn](https://www.dawn.com/news/1924988/germany-deports-81-afghans-convicted-of-crimes)*
+- Gaza civil defence agency reports 14 deaths from Israeli strikes. *[Business Recorder](https://www.brecorder.com/news/40373313/gaza-civil-defence-agency-says-israeli-strikes-kill-14)*
 
 ### Sports
-- England’s Brook and Bethell received warnings over a nightclub altercation in New Zealand. *[Business Recorder](https://www.brecorder.com/news/40414422/englands-brook-bethell-let-off-with-warning-over-nz-nightclub-altercation)*
+- Pakistani cueist Muhammad Asif will face India’s Brijesh Damani in the IBSF World Masters Snooker Championship final. *[Dawn](https://www.dawn.com/news/1924987/pakistans-muhammad-asif-to-face-indian-cueist-in-ibsf-world-masters-final-today)*
+
+### Health
+- One billion Africans are being harmed by cooking pollution due to the use of open fires and hazardous fuels. *[Dawn](https://www.dawn.com/news/1925002/one-billion-africans-being-harmed-by-cooking-pollution)*
 
 ### Other
-- Concerns are rising over the unregulated marble industry in Mohmand, Pakistan, and its environmental impact. *[Dawn](https://www.dawn.com/news/1987667/mohmands-unregulated-marble-industry-raises-environmental-safety-concerns)*
-- A five-point plan endorsed by China has been proposed to end the US-Israeli war on Iran. *[Dawn](https://www.dawn.com/news/1987683/five-point-plan)*
-- Crisis and institutional responses in modern states were discussed. *[Dawn](https://www.dawn.com/news/1987694/crises-and-institutions)*
-- Banks and telecom companies traded blame for overcharging for messaging services during a Senate panel meeting. *[Dawn](https://www.dawn.com/news/1987579/in-senate-panel-meeting-banks-and-telcos-trade-blame-for-overcharging-for-messaging-services)*
-- The Gulf war is impacting India’s glass industry. *[Business Recorder](https://www.brecorder.com/news/40414425/gulf-war-batters-indias-glass-heartland-testing-new-delhis-manufacturing-drive)*
-
-### Entertainment
-- Megan Thee Stallion revealed details behind her sudden hospital visit. *[ARY News](https://arynews.tv/megan-thee-stallion-reveal-details-behind-her-sudden-hospital-visit/)*
-- Olivia Rodrigo teased about her upcoming album. *[ARY News](https://arynews.tv/olivia-rodrigo-teases-about-her-upcoming-album/)*
-- Kylie Jenner revealed she cried watching ‘KUWTK’ with her daughter. *[ARY News](https://arynews.tv/kylie-jenner-reveals-she-cried-watching-kuwtk-with-daughter/)*
-- Kylie Jenner revealed her favorite Timothée Chalamet movie. *[ARY News](https://arynews.tv/kylie-jenner-reveals-her-favorite-timothee-chalamet-movie/)*
-- Brittany Mahomes gushed over her daughter’s resemblance to Patrick Mahomes. *[ARY News](https://arynews.tv/brittany-mahomes-gushes-over-daughters-resemblance-to-dad-patrick/)*
-- Cardi B detailed her post-divorce transformation journey. *[ARY News](https://arynews.tv/cardi-b-details-post-divorce-transformation-journey/)*
-- Johnny Depp’s Hollywood Vampires sued over canceled Slovakia concert. *[ARY News](https://arynews.tv/johnny-depps-hollywood-vampires-sued-over-canceled-slovakia-concert/)*
+- The OICCI expressed concern over the impacts of climate change in Pakistan following recent floods and rains. *[Pro Pakistani](https://propakistani.pk/2025/07/18/oicci-shows-concern-over-climate-change-impacts-in-pakistan/)*
+- Justin Timberlake and Jessica Biel are reportedly heading for a divorce. *[ARY](https://arynews.tv/justin-timberlake-jessica-biel-headed-for-a-divorce/)*
+- Hailey Bieber addressed whether she will use funds from the sale of Rhode to cover Justin Bieber’s debt to Scooter Braun. *[ARY](https://arynews.tv/hailey-bieber-to-pay-off-justin-scooter-braun-deal-with-rhode-sale/)*
+- PTI is facing internal revolt over Senate ticket dispute. *[ARY](https://arynews.tv/pti-office-bearers-want-irfan-saleems-senate-ticket/)*
+- The University of Home Economics Lahore announced six new degree programs. *[Pro Pakistani](https://propakistani.pk/2025/07/18/home-economics-university-announce-six-new-degree-programs/)*
+- Donald Trump threatened to sue The Wall Street Journal over a story about a letter allegedly written to Jeffrey Epstein. *[Dawn](https://www.dawn.com/news/1924961/trump-threatens-to-sue-wsj-over-story-on-alleged-2003-letter-to-epstein)*
+- The US declared the outfit behind the Pahalgam attack a foreign terrorist organization. *[Dawn](https://www.dawn.com/news/1924884/us-declares-outfit-behind-pahalgam-attack-terror-group)*
 
 - Sent by Zaki Auto
