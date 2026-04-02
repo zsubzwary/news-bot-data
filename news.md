@@ -1,61 +1,62 @@
-Here’s your Pakistan news briefing for 01-Apr-2026 23:01HRS:
+Here’s your Pakistan news briefing for 02-Apr-2026 11:01HRS:
 Time to read: 4 mins
 
 ### Economy
-- The FBR achieved a record revenue collection of Rs 9.4 billion in the third quarter, surpassing its target of Rs 7.36 billion. *Dawn*
-- The SBP launched a new framework allowing teenagers to independently own and operate bank accounts and digital wallets. *Dawn*
-- The SBP cancelled the license of Sahara Exchange Company, barring it from all forex activities. *Profit.PakToday*
-- The IFC pledged $2.7 billion to boost Pakistan’s private sector and infrastructure. *Profit.PakToday*
-- Thar coal mining operations will transition from diesel to grid power, saving approximately Rs25 million per day. *Profit.PakToday*
-- India’s RBI barred banks from offering clients rupee non-deliverable forwards amid currency strain. *Business Recorder*
-- Dubai’s stock market led gains in the Gulf, fueled by hopes of de-escalation in the Iran war. *Business Recorder*
-- The UAE saw petrol prices jump 30% due to the Middle East war. *Business Recorder*
-- Gul Ahmed Textile Mills appointed Mohammed Zaki Bashir as its new CEO. *Profit.PakToday*
-- Supernet Technologies finalized its merger with GEMSPNL, crediting over 107 million shares. *Profit.PakToday*
-- The value of the Iranian Rial has risen dramatically in Pakistan’s currency markets, quadrupling in value since the start of the war. *Profit.PakToday*
-- The FBR has allowed multiple integrators for e-invoicing integration. *Profit.PakToday*
+- The PSX shed over 5,300 points due to geopolitical tensions following Trump’s statements on Iran. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/psx-plunges-over-5400-points-as-trumps-stone-age-threat-to-iran-rattles-markets/)*
+- The SBP raised Rs801.7 billion through PIB and T-bill auctions, indicating continued reliance on domestic borrowing. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/sbp-raises-rs801-7-billion-through-pib-t-bill-auctions/)*
+- NEPRA fined CPPA and NTDC Rs60 million for costly electricity generation due to planning lapses and inefficiencies. *[ARY News](https://arynews.tv/nepra-fines-cppa-ntdc-rs60m-over-costly-electricity-generation/)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/cppa-national-grid-company-fined-rs60-million-for-planning-lapses-faulty-data/)*
+- Unilever is merging its global foods business with McCormick, potentially impacting its Pakistan unit. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/unilever-to-merge-its-global-foods-business-with-mccormick-signals-ownership-shift-in-pakistan-unit/)*
+- The ECC ordered ministries to surrender Rs100 billion from PSDP allocations for the PM’s austerity fund. *[Business Recorder](https://www.brecorder.com/news/40414402/ecc-orders-ministries-to-surrender-rs100bn-psdp-cut-for-pms-fund)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/ecc-orders-rs100-billion-psdp-cuts-for-pm-austerity-fund/)*
+- Oil prices jumped over 4% after Trump signaled continued attacks on Iran. *[Business Recorder](https://www.brecorder.com/news/40414416/oil-jumps-over-4-after-trump-says-us-to-keep-up-attacks-on-iran)*
+- Pakistan is seeking to settle $220 million in dues owed by SSGC to a Chinese energy firm. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/02/china-urges-pakistan-to-settle-220-million-dues-payable-by-ssgc-to-energy-firm/)*
 
 ### Politics
-- President Trump attended the Supreme Court arguments on limiting birthright citizenship, a historic first. *Dawn*
-- Prime Minister Shehbaz Sharif stated Pakistan successfully addressed the demand and supply of essential goods amid regional conflict. *Dawn*
-- Officials from Pakistan, Afghanistan, and China held a meeting in Urumqi, China, under the trilateral mechanism. *Dawn*
-- The Swiss government is considering dropping the purchase of the US Patriot air defence system due to delivery delays. *Dawn*
-
-### National
-- Nine people, including four police officers, were injured in an IED blast in Lakki Marwat, KP. *Dawn*
-- A 35% decline in terrorism fatalities was recorded in March, coinciding with Operation Ghazab lil-Haq. *Dawn*
-- Security forces killed 13 terrorists in two separate intelligence-based operations in Khyber Pakhtunkhwa. *Dawn*
-- Schools in Punjab will remain closed on Fridays until further notice. *Dawn*
-- Transit facility to Iran was closed in Chaghi, requiring a valid visa for travelers. *ARY*
-- Punjab is enforcing mandatory motor insurance through a digital permit system integration. *Profit.PakToday*
-- CCP recovered Rs35 million in penalties from firms for deceptive advertising of frozen desserts. *Profit.PakToday*
+- Democrats are demanding a ceasefire as Trump defends the costly war on Iran. *[Dawn](https://www.dawn.com/news/1987773/democrats-demand-ceasefire-as-trump-defends-costly-war-on-iran)*
+- President Trump signed an executive order to crack down on mail-in voting ahead of mid-term elections. *[Dawn](https://www.dawn.com/news/1987670/trump-signs-executive-order-for-crackdown-on-mail-in-voting-ahead-of-mid-term-election)*
+- The US Supreme Court justices expressed skepticism towards Trump’s order to restrict birthright citizenship. *[Dawn](https://www.dawn.com/news/1987575/us-supreme-court-justices-skeptical-of-trumps-order-to-restrict-birthright-citizenship)*
+- Pakistan and Afghanistan have resumed talks in China, mediated by China, to address ongoing clashes. *[Business Recorder](https://www.brecorder.com/news/40414396/pakistan-afghanistan-open-fresh-talks-in-china)*
 
 ### International
-- The US President Donald Trump is set to address the nation regarding the war with Iran, potentially outlining an endgame. *Dawn*
-- The US Supreme Court heard arguments on limiting birthright citizenship with President Trump in attendance. *ARY*
-- The occupied West Bank observed a general strike in protest of a new Israeli law permitting the death penalty for Palestinians. *Dawn*
-- NASA is preparing to launch its first crewed lunar mission in half a century. *ARY*
-- The Middle East war is causing financial risks, according to the Bank of England. *Business Recorder*
-- Starmer announced the UK will host a multi-nation meeting on Hormuz shipping. *Business Recorder*
+- Trump signaled the US-Israeli military campaign against Iran could conclude within weeks but threatened wider attacks. *[Dawn](https://www.dawn.com/news/1987698/trump-says-conflict-nearing-end-threatens-wider-attacks-on-iran)*
+- The UK will host a 35-state moot to discuss reopening the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1987674/uk-to-host-35-state-moot-on-reopening-of-hormuz-strait)*
+- Indonesia has called for a UN investigation into the deaths of its peacekeepers in Lebanon following Israeli strikes. *[Dawn](https://www.dawn.com/news/1987672/indonesia-calls-for-probe-into-un-peacekeepers-killing)*
+- Myanmar’s parliament will vote to elect a president on Friday, with the former military chief in the running. *[Business Recorder](https://www.brecorder.com/news/40414426/myanmar-parliament-to-hold-vote-to-elect-president-on-friday-house-speaker-says)*
+- Babies evacuated from Gaza two years ago have been reunited with their parents. *[Dawn](https://www.dawn.com/news/1987654/babies-evacuated-from-gaza-two-years-ago-returned-to-their-overjoyed-parents)*
 
-### Science & Technology
-- NASA is counting down for its first crewed lunar mission in half a century, Artemis II. *ARY*
-
-### Sports
-- Multan Sultans defeated Hyderabad Kingsmen in a high-scoring PSL match, with Sahibzada Farhan scoring a century. *Business Recorder*
-- Adam Zampa chose to play in the PSL over the IPL, citing financial and time commitment reasons. *Business Recorder*
-
-### Health
-- *No relevant articles provided.*
+### National
+- Pakistan may become the fourth most populated nation in five years. *[Dawn](https://www.dawn.com/news/1987671/pakistan-may-become-fourth-most-populated-nation-in-five-years)*
+- The Sindh CM ordered the demolition of the fire-hit Gul Plaza structure. *[Dawn](https://www.dawn.com/news/1987623/sindh-cm-murad-orders-demolition-of-fire-hit-gul-plaza-structure)*
+- The Sindh High Court summoned the FIA chief regarding notices for banking records of Karachi Cotton Exchange directors. *[Dawn](https://www.dawn.com/news/1987625/sindh-high-court-summons-fia-chief-in-pleas-against-notices-for-banking-records-of-cotton-exchange-directors-tenants)*
+- The information ministry dismissed claims of barbed wire removal along the Pak-Afghan border as fabricated. *[Dawn](https://www.dawn.com/news/1987562/devoid-of-facts-info-ministry-rubbishes-claims-of-barbed-wire-being-removed-along-pak-afghan-border)*
+- Four cops were among nine injured in an IED blast in Lakki Marwat, KP. *[Dawn](https://www.dawn.com/news/1987545/4-cops-among-9-injured-in-ied-blast-in-kps-lakki-marwat)*
 
 ### Weather
-- *No relevant articles provided.*
+- Rain began in Karachi and surrounding areas, prompting local authorities to declare an emergency. *[Dawn](https://www.dawn.com/news/1987780/rain-begins-in-karachi-surrounding-areas-as-local-authorities-declare-emergency)* & *[ARY News](https://arynews.tv/karachi-receives-light-rain-braces-for-more-2-april-2026/)*
+- Heavy rains and flash floods are causing havoc across Balochistan, affecting over 30 districts. *[Dawn](https://www.dawn.com/news/1987677/heavy-rains-flash-floods-wreak-havoc-across-balochistan)*
+
+### Science & Technology
+- NASA launched four astronauts on the Artemis II mission, the first crewed lunar mission in half a century. *[Dawn](https://www.dawn.com/news/1987778/nasa-launches-4-astronauts-on-worlds-first-crewed-lunar-mission-in-half-a-century)*
+
+### Health
+- A new COVID variant, ‘Cicada’ (BA.3.2), is spreading and may be able to evade immunity. *[ARY News](https://arynews.tv/covid-variant-cicada-symptoms-spread-causes-and-more/)*
+
+### Sports
+- England’s Brook and Bethell received warnings over a nightclub altercation in New Zealand. *[Business Recorder](https://www.brecorder.com/news/40414422/englands-brook-bethell-let-off-with-warning-over-nz-nightclub-altercation)*
 
 ### Other
-- The information ministry dismissed claims of barbed wire removal along the Pak-Afghan border as fabricated. *Dawn*
-- Actress Saboor Aly shared photos from her daughter’s first birthday celebration. *ARY*
-- Jack Quaid hinted at a dark ending for the final season of *The Boys*. *ARY*
-- A war diary update noted the ongoing US-Iran conflict and speculation surrounding Trump’s upcoming address. *Dawn*
-- Shigeru Miyamoto, creator of Super Mario, reflected on the character’s evolution. *Business Recorder*
+- Concerns are rising over the unregulated marble industry in Mohmand, Pakistan, and its environmental impact. *[Dawn](https://www.dawn.com/news/1987667/mohmands-unregulated-marble-industry-raises-environmental-safety-concerns)*
+- A five-point plan endorsed by China has been proposed to end the US-Israeli war on Iran. *[Dawn](https://www.dawn.com/news/1987683/five-point-plan)*
+- Crisis and institutional responses in modern states were discussed. *[Dawn](https://www.dawn.com/news/1987694/crises-and-institutions)*
+- Banks and telecom companies traded blame for overcharging for messaging services during a Senate panel meeting. *[Dawn](https://www.dawn.com/news/1987579/in-senate-panel-meeting-banks-and-telcos-trade-blame-for-overcharging-for-messaging-services)*
+- The Gulf war is impacting India’s glass industry. *[Business Recorder](https://www.brecorder.com/news/40414425/gulf-war-batters-indias-glass-heartland-testing-new-delhis-manufacturing-drive)*
+
+### Entertainment
+- Megan Thee Stallion revealed details behind her sudden hospital visit. *[ARY News](https://arynews.tv/megan-thee-stallion-reveal-details-behind-her-sudden-hospital-visit/)*
+- Olivia Rodrigo teased about her upcoming album. *[ARY News](https://arynews.tv/olivia-rodrigo-teases-about-her-upcoming-album/)*
+- Kylie Jenner revealed she cried watching ‘KUWTK’ with her daughter. *[ARY News](https://arynews.tv/kylie-jenner-reveals-she-cried-watching-kuwtk-with-daughter/)*
+- Kylie Jenner revealed her favorite Timothée Chalamet movie. *[ARY News](https://arynews.tv/kylie-jenner-reveals-her-favorite-timothee-chalamet-movie/)*
+- Brittany Mahomes gushed over her daughter’s resemblance to Patrick Mahomes. *[ARY News](https://arynews.tv/brittany-mahomes-gushes-over-daughters-resemblance-to-dad-patrick/)*
+- Cardi B detailed her post-divorce transformation journey. *[ARY News](https://arynews.tv/cardi-b-details-post-divorce-transformation-journey/)*
+- Johnny Depp’s Hollywood Vampires sued over canceled Slovakia concert. *[ARY News](https://arynews.tv/johnny-depps-hollywood-vampires-sued-over-canceled-slovakia-concert/)*
 
 - Sent by Zaki Auto
