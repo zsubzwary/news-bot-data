@@ -1,4 +1,16 @@
-::: {dir="rtl" align="right"}
+
+<style>
+  body, .markdown-body {
+    direction: rtl;
+    text-align: right;
+  }
+  ul, ol {
+    padding-right: 2em; /* Fixes bullet point indentation for RTL */
+    padding-left: 0;
+  }
+</style>
+
+
 Here's your Pakistan news briefing for 02-Apr-2026 13:13HRS\
 Time to read: 4 mins
 
