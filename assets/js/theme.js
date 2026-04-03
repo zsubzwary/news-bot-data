@@ -4,8 +4,7 @@
   
   const THEMES = {
     light: '☀️',
-    dark: '🌙',
-    auto: '🔄'
+    dark: '🌙'
   };
   
   function getSystemTheme() {
@@ -26,16 +25,20 @@
     const effectiveTheme = theme === 'auto' ? getSystemTheme() : theme;
     document.documentElement.setAttribute('data-theme', effectiveTheme);
     if (themeToggle) {
-      themeToggle.textContent = THEMES[theme];
+      themeToggle.textContent = THEMES[effectiveTheme];
     }
   }
   
   function rotateTheme() {
     const currentTheme = getStoredTheme();
-    const themes = ['light', 'dark', 'auto'];
-    const currentIndex = themes.indexOf(currentTheme);
-    const nextIndex = (currentIndex + 1) % themes.length;
-    const nextTheme = themes[nextIndex];
+    const effectiveTheme = getEffectiveTheme();
+    
+    let nextTheme;
+    if (currentTheme === 'auto') {
+      nextTheme = effectiveTheme === 'light' ? 'dark' : 'light';
+    } else {
+      nextTheme = 'auto';
+    }
     
     localStorage.setItem(STORAGE_KEY, nextTheme);
     applyTheme(nextTheme);
@@ -49,7 +52,6 @@
       themeToggle.addEventListener('click', rotateTheme);
     }
     
-    // Listen for system theme changes
     window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
       const stored = getStoredTheme();
       if (stored === 'auto') {
